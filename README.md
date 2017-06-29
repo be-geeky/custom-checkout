@@ -1,4 +1,4 @@
-# custom-checkout
+# custom-checkout for  Magento ver. 2.1.7
 
 The custom module will perform the following activities
 
